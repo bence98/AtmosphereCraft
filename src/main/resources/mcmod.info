@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AtmosphereCraft",
+  "name": "AtmosphereCraft",
+  "description": "Adds an API for simulating atmospheric gases.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CsokiCraft"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

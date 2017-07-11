@@ -1,0 +1,31 @@
+command.atmosphere.usage.change=atmosphere <set/add> <gas_id> <amount>
+command.atmosphere.usage.get=atmosphere get <gas_id>
+command.atmosphere.usage.name=atmosphere name <gas_id> [full_name(true/false)]
+
+command.atmosphere.error.fewargs=Too few parameters!
+command.atmosphere.error.noid=%s is not a valid gas id!
+command.atmosphere.error.wrongparams=Invalid parameters!
+command.atmosphere.error.noplayer=You must be a player to use that!
+
+command.atmosphere.success.set=Gas set!
+command.atmosphere.success.add=Gas added!
+command.atmosphere.success.get=Amount of %s: %s
+
+atmgas.N2.name=Nitrogen
+atmgas.O2.name=Oxygen
+atmgas.CO2.name=Carbon dioxide
+atmgas.H2O.name=Water vapor
+atmgas.CH4.name=Methane
+atmgas.smoke.name=Smoke
+
+itemGroup.atm_machines=AtmosphereCraft Machinery
+
+item.gas_filter.name=Gas filter
+item.gas_filter.0.name=Nitrogen filter
+item.gas_filter.1.name=Oxygen filter
+item.gas_filter.2.name=Carbon dioxide filter
+item.gas_filter.3.name=Water vapor filter
+item.gas_filter.4.name=Methane filter
+item.gas_filter.5.name=Smoke filter
+
+tile.machine.name=AtmosphereCraft Machine
