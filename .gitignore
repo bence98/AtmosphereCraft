@@ -20,3 +20,10 @@ build
 # other
 eclipse
 run
+
+## Ignore everything but `src` and Gradle files
+*
+!src
+!src/*
+!build.gradle
+!gradle.properties
